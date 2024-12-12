@@ -1,0 +1,62 @@
+19:37:12.578 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:37:47.210 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:37:52.864 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:37:54.963 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:39:12.753 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:39:18.133 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+19:39:18.148 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:39:20.091 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:41:29.874 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:41:36.640 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:41:38.383 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:43:42.902 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:43:48.505 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+19:43:48.517 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:43:50.330 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:46:36.766 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:46:42.247 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:46:44.147 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:48:19.077 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:48:24.551 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+19:48:24.568 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:48:26.508 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:48:44.418 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:48:49.769 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+19:48:49.781 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:51:16.023 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+19:51:21.757 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+19:51:21.769 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+19:51:23.463 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+19:51:23.476 [main] INFO  api.test.TC005_PetTest - ***** Update created pet *****
+19:51:25.687 [main] INFO  api.test.TC005_PetTest - ***** Updated create pet *****
+19:51:25.692 [main] INFO  api.test.TC005_PetTest - ***** Delete pet *****
+19:51:27.428 [main] INFO  api.test.TC005_PetTest - *****pet Delete *****
+19:55:04.702 [main] INFO  api.test.TC004_OrderPlaceTest - ***** Delete order *****
+19:59:57.705 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+20:00:01.304 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+20:00:01.310 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+20:00:02.710 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+20:00:02.714 [main] INFO  api.test.TC005_PetTest - ***** Update created pet *****
+20:00:04.071 [main] INFO  api.test.TC005_PetTest - ***** Delete pet *****
+20:05:15.143 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+20:05:18.705 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+20:05:18.711 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+20:05:20.025 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+20:08:46.937 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+20:08:51.632 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+20:08:51.638 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+20:08:52.972 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+20:09:41.733 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+20:09:45.263 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+20:09:45.270 [main] INFO  api.test.TC005_PetTest - ***** Get created pet *****
+20:09:46.596 [main] INFO  api.test.TC005_PetTest - ***** Received created pet *****
+20:11:16.140 [main] INFO  api.test.TC004_OrderPlaceTest - ***** placing order *****
+20:11:19.777 [main] INFO  api.test.TC004_OrderPlaceTest - ***** order placed *****
+20:11:19.783 [main] INFO  api.test.TC004_OrderPlaceTest - ***** get placed order *****
+20:11:21.159 [main] INFO  api.test.TC004_OrderPlaceTest - ***** received placed order *****
+20:11:21.162 [main] INFO  api.test.TC004_OrderPlaceTest - ***** Delete order *****
+20:11:22.400 [main] INFO  api.test.TC004_OrderPlaceTest - ***** order deleted *****
+20:19:14.013 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+20:19:17.658 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****
+20:21:55.082 [main] INFO  api.test.TC005_PetTest - ***** create new pet *****
+20:21:58.578 [main] INFO  api.test.TC005_PetTest - ***** new pet created *****

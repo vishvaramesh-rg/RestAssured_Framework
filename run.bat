@@ -1,0 +1,3 @@
+cd D:\Testing\API_Testing\RestAssured_Automation_API_Testing\Automation\RestAssured_Framework
+
+mvn test
