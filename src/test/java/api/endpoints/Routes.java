@@ -48,5 +48,16 @@ public class Routes {
 	public static String pet_delete_url = base_Url+"/pet/{petId}";
 	
 	
+	
+	//Go-rest - https://gorest.co.in/public/v2/users
+	
+	public static String gorest_base_url = "https://gorest.co.in/public/v2";
+	
+	public static String gorest_post_url= gorest_base_url+"/users";
+	public static String gorest_get_url = gorest_base_url+"/users/{userid}";
+	public static String gorest_put_url = gorest_base_url+"/users/{userid}";
+	public static String gorest_delete_url= gorest_base_url+"/users/{userid}";
+	
+	
 
 }
